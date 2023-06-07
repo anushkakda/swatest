@@ -29,6 +29,6 @@ jobs:
       api_location: "" # Api source code path - optional
       output_location: "build" # Built app content directory - optional
     env:
-      REACT_APP_NOT_SECRET_CODE : 0.58.0
+      REACT_APP_NOT_SECRET_CODE : 5.58.0
 ###### End of Repository/Build Configurations ######
 
